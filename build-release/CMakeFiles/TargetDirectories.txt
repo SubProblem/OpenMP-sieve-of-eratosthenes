@@ -1,0 +1,3 @@
+/home/user/Desktop/assignment-4/build-release/CMakeFiles/sieve-of-eratosthenes.dir
+/home/user/Desktop/assignment-4/build-release/CMakeFiles/edit_cache.dir
+/home/user/Desktop/assignment-4/build-release/CMakeFiles/rebuild_cache.dir
