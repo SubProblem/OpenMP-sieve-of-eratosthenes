@@ -1,4 +1,4 @@
-# Assignment 3
+# Project Setup
 
 ```
 sudo apt-get install libomp-dev
